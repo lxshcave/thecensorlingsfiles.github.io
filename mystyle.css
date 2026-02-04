@@ -1,10 +1,10 @@
+body {
+  background-color: black;
+}
+
 html {
   font-size: 100%;
 }
 span {
   font-size: 1.6em;
-}
-
-body {
-  background-color: black;
 }
