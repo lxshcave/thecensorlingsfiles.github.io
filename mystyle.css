@@ -1,9 +1,12 @@
 body {
   background-color: black;
 }
-html {
-  font-size: 100%;
+
+.balance {
+  text-wrap: balance;
 }
-span {
-  font-size: 1.6em;
+
+h2 {
+  font-size: 2rem;
+  font-family: sans-serif;
 }
